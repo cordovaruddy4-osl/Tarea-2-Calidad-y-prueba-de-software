@@ -1,6 +1,8 @@
 # Tarea 2 GIT
 ## Ruddy Cordova Romero / Kevin Lozano Chambi
 
+### https://github.com/cordovaruddy4-osl/Tarea-2-Calidad-y-prueba-de-software.git
+
 Crear un proyecto simple con al menos 6 archivos 
 
 configurar el cliente de cada integrante en su maquina de git
